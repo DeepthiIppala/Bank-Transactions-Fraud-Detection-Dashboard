@@ -100,5 +100,16 @@ Features:
 
 ---
 
+### Home Page – Transaction Overview
+![Home Page](screenshots/home_page.png)
+
+### Fraud Detection Page
+![Fraud Detection](screenshots/fraud_detection_page.png)
+
+### Transaction Details Page
+![Transaction Details](screenshots/transaction_details_page.png)
+
+---
+
 ## Notes
 This project was built as a learning and portfolio project to strengthen Power BI skills in a banking and fraud-analysis context.
