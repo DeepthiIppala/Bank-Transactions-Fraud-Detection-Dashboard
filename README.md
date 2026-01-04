@@ -101,7 +101,7 @@ Features:
 ---
 
 ### Home Page – Transaction Overview
-![Home Page](main/Screenshots/home_page.png)
+Screenshots/home_page.png
 
 ### Fraud Detection Page
 ![Fraud Detection](screenshots/fraud_detection_page.png)
