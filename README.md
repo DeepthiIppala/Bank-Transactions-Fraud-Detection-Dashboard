@@ -103,11 +103,19 @@ Features:
 ### Home Page – Transaction Overview
 Screenshots/home_page.png
 
+<img width="1386" height="757" alt="{95E97B0F-E69F-4E8B-83B0-47AB1BEB36AE}" src="https://github.com/user-attachments/assets/6910598d-089d-4d05-80da-4658c441a8f4" />
+
+
 ### Fraud Detection Page
-![Fraud Detection](screenshots/fraud_detection_page.png)
+Screenshots/fraud_detection_page.png
+
+<img width="1361" height="746" alt="{ED989ADD-E5CB-4F05-8C99-8E105EAE5897}" src="https://github.com/user-attachments/assets/c2e26155-3098-430c-a8dc-2b9cca1f95c9" />
+
 
 ### Transaction Details Page
-![Transaction Details](screenshots/transaction_details_page.png)
+Screenshots/transaction_details_page.png
+
+<img width="1358" height="747" alt="{E2248078-FDED-4EC7-BDB3-D3FC0C8C75F7}" src="https://github.com/user-attachments/assets/1c45b179-1a78-4f98-8fcb-08fe69ecab5b" />
 
 ---
 
